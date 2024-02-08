@@ -25,4 +25,4 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a>
 </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-bejar&show_icons=true&locale=en&layout=compact" alt="c-bejar" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-bejar&theme=chartreuse-dark&layout=compact)](https://github.com/c-bejar/github-readme-stats)
