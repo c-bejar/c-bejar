@@ -23,4 +23,4 @@ Based in **Chicago, Illinois**, I am currently delving into game development via
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/c-bejar/"}
+[linkedin](https://www.linkedin.com/in/c-bejar/)
