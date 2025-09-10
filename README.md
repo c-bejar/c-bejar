@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Chris**, an a developer interested in game development, web technologies, and new technologies. I like exploring new ideas and finding creative ways to solve problems!
+I'm **Chris**, a developer interested in game development, web technologies, and new technologies. I like exploring new ideas and finding creative ways to solve problems!
 
 ## About Me
 
