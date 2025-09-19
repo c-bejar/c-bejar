@@ -4,7 +4,7 @@ I'm **Chris**, a developer interested in game development, web technologies, and
 
 ## About Me
 
-Based in **Chicago, Illinois**, I am currently delving into game development via tools like Haxe and Heaps.io. My journey started with a little tool called RPG Maker and since then, I've been interested in the process of creating games.
+Based in **Chicago, Illinois**, I am currently delving into game development via tools like Godot. My journey started with a little tool called RPG Maker and since then, I've been interested in the process of creating games.
 
 ## Skills & Technologies
 
