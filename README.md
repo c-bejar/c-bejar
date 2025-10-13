@@ -21,6 +21,8 @@ Based in **Chicago, Illinois**, I am currently delving into game development via
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-bejar&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-bejar&layout=compact&theme=radical)
+
 ## Connect with Me
 
 [linkedin](https://www.linkedin.com/in/c-bejar/)
