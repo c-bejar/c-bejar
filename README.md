@@ -12,6 +12,7 @@ Based in **Chicago, Illinois**, I am currently delving into game development via
 
 ## Top Projects
 
+- [Night-of-the-Black-Spirits](https://github.com/c-bejar/Night-of-the-Black-Spirits): An endless horde brawler with the goal to get the highest score possible. Language(s): GDScript, GDShader
 - [SVE-Set-Tool](https://github.com/c-bejar/SVE-Set-Tool): A web scraper and deck editor for Shadowverse Evolve, scraping cards from the official website. Language(s): HTML, CSS, & JavaScript.
 - [CS-342-Proj3-Networking-JavaFX](https://github.com/c-bejar/CS-342-Proj3-Networking-JavaFX): A Poker game client with Server integration on the same network/device. Language(s): Java 
 - [Aztlan-Painting-Website](https://github.com/c-bejar/Aztlan-Painting-Website): A personal personal website for the purposes of showcasing work for hire. Language(s): HTML & CSS.
